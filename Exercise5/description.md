@@ -1,0 +1,1 @@
+Calculate Pi using the lorentz sum, try to incorporate a function into it.

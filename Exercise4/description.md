@@ -1,0 +1,1 @@
+Try to write a program that determines wheter a number is positive, negative or zero. It should remain asking for new input, during runtime. It may have a "killswitch" but it's not neccessary.

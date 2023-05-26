@@ -1,0 +1,1 @@
+Make a simple "chat bot" that asks for your name and age. Takes two numbers as input and returns the product of them.

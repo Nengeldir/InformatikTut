@@ -1,0 +1,1 @@
+write three loops using the learnt methods and output the first 4 natural numbers.
